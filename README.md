@@ -1,23 +1,26 @@
-## Basketball
+# Basketball
 
-Welcome to magnifica!
+Welcome to Magnifica!
+
 
 Here is a small game for you to try and develop
+
 the project is already setup with all the required basics
+
 It is built on unity version 2021.2.17f1 you can go with a higher version but not lower
 
 
-# Contents:
+## Contents:
 1. _Scenes/Main.unity - This is where the magic happens
-2. Prefabs/Machine - This is the basketball machine with all of it's compnents, the time/score view is here
-3. Prefabs/Ball - It's just a basic sphere with a rigidbody, the size is the same as a real basketball so don't change it's scale.
+2. Prefabs/Machine - This is the basketball machine with all of it's components, the time/score view is here
+3. Prefabs/Ball - It's just a basic sphere with a Rigidbody, the size is the same as a real basketball so don't change it's scale.
 
 
-# Requirments:
+## Requirements:
 
 1. Insert and configure open-xr
 2. Make it so you can pickup the ball (interactable) and throw it (throwable)
-3. Indentify the ball going through the hoop
+3. Identify the ball going through the hoop
 4. Define the ball physics, it should act like a basketball and bounce
 5. Write the game loop: A round should last 60 seconds
-6. Bonus: Anything you can think of (Effects, Particales, Environment, Sounds etc.)
+6. Bonus: Anything you can think of (Effects, Particles, Environment, Sounds etc.)
